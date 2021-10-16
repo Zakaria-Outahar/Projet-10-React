@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Projet-10-React/static/css/main.8ddd2039.chunk.css",
+    "main.js": "/Projet-10-React/static/js/main.04b37e54.chunk.js",
+    "main.js.map": "/Projet-10-React/static/js/main.04b37e54.chunk.js.map",
+    "runtime-main.js": "/Projet-10-React/static/js/runtime-main.9b6871bf.js",
+    "runtime-main.js.map": "/Projet-10-React/static/js/runtime-main.9b6871bf.js.map",
+    "static/js/2.350ff531.chunk.js": "/Projet-10-React/static/js/2.350ff531.chunk.js",
+    "static/js/2.350ff531.chunk.js.map": "/Projet-10-React/static/js/2.350ff531.chunk.js.map",
+    "index.html": "/Projet-10-React/index.html",
+    "static/css/main.8ddd2039.chunk.css.map": "/Projet-10-React/static/css/main.8ddd2039.chunk.css.map",
+    "static/js/2.350ff531.chunk.js.LICENSE.txt": "/Projet-10-React/static/js/2.350ff531.chunk.js.LICENSE.txt",
+    "static/media/edit.3c70b537.svg": "/Projet-10-React/static/media/edit.3c70b537.svg",
+    "static/media/edit.d7d0ce0e.svg": "/Projet-10-React/static/media/edit.d7d0ce0e.svg",
+    "static/media/folder.0fe7aef3.svg": "/Projet-10-React/static/media/folder.0fe7aef3.svg",
+    "static/media/menu.1b377fab.svg": "/Projet-10-React/static/media/menu.1b377fab.svg",
+    "static/media/remove.562b6f7b.svg": "/Projet-10-React/static/media/remove.562b6f7b.svg",
+    "static/media/settings.b282a86f.svg": "/Projet-10-React/static/media/settings.b282a86f.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9b6871bf.js",
+    "static/js/2.350ff531.chunk.js",
+    "static/css/main.8ddd2039.chunk.css",
+    "static/js/main.04b37e54.chunk.js"
+  ]
+}
